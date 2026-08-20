@@ -1,2 +1,2 @@
 # Corrosion-Dataset
-Uncertainty-Calibrated Active Learning for High-Corrosion-Potential High-Entropy Alloy Candidate Screening
+Uncertainty-aware active learning for probability-guided screening of high-entropy alloys with high corrosion potential
